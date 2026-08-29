@@ -1,0 +1,26 @@
+h1 {
+    color: salmon;
+    font-size: 2.5em;
+    font-family: 'fantasy';
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(84, 113, 25);
+}
+p {
+    text-align: center;
+    color:salmon;
+    line-height: 0.9;
+    font-size: 1.1em;
+    font-family: 'fantasy';
+}
+body {
+    background-color:white;
+}
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
